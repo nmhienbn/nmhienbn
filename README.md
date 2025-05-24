@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , welcome to my GitHub 👋
 
 <!--
 **nmhienbn/nmhienbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Stats
+<!-- Đổi username & theme/tuỳ chọn cho phù hợp -->
+![Hien Nguyen Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmhienbn&show_icons=true&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmhienbn&layout=compact&theme=react)
+
+### 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nmhienbn&theme=react&hide_border=true)
